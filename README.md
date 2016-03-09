@@ -197,7 +197,7 @@ Otherwise, we'll be completely lost as soon as a sufficiently unusual edge case
 appears.
 
 When in doubt, **read the HTML**. Get used to hitting the "View Source" and
-"Open Inspector" hotkeys in your browser (`Ctrl-u` and `Ctrl-Shift-i` on Chrome
+"Open Inspector" hotkeys in your browser (`Ctrl-u` and `CMD-option-i` on Chrome
 Windows), and remember that most browsers let you [examine POST data in their
 developer network tools][devtools].
 
