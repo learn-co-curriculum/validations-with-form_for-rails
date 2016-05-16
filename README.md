@@ -16,9 +16,9 @@ convenient features.
 
 In the example below, `@post` is the model object that needs a form. `form_for` automatically performs a route lookup to find the right URL for post.
 
-`form_for` takes a block. It passes an instance of [FormHelper][form_helper] as a parameter to the block, which is what `f` is below.
+`form_for` takes a block. It passes an instance of [FormBuilder][form_builder] as a parameter to the block, which is what `f` is below.
 
-[form_helper]: http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html
+[form_builder]: http://api.rubyonrails.org/classes/ActionView/Helpers/FormBuilder.html
 
 A basic implementation looks like this:
 
@@ -181,3 +181,5 @@ http://superuser.com/questions/395919/where-is-the-post-tab-in-chrome-developer-
 <a href='https://learn.co/lessons/validations-with-form_for-rails' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/validations-with-form_for-rails'>Validations with form_for</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/validations-with-form_for-rails'>Validations with form_for</a> on Learn.co and start learning to code for free.</p>
