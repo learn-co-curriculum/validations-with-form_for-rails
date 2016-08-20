@@ -11,8 +11,7 @@ After this lesson, you'll be able to...
 
 # The differences between `form_for` and `form_tag`
 
-This step will make heavy usage of `form_for`, the high-powered alternative to `form_tag`. The biggest difference between these two helpers is that `form_for` creates a form specifically **for** a model object. `form_for` is full of
-convenient features.
+This step will make heavy usage of `form_for`, the high-powered alternative to `form_tag`. The biggest difference between these two helpers is that `form_for` creates a form specifically **for** a model object. `form_for` is full of convenient features.
 
 In the example below, `@post` is the model object that needs a form. `form_for` automatically performs a route lookup to find the right URL for post.
 
@@ -181,3 +180,5 @@ http://superuser.com/questions/395919/where-is-the-post-tab-in-chrome-developer-
 <a href='https://learn.co/lessons/validations-with-form_for-rails' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/validations-with-form_for-rails'>Validations with form_for</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/validations-with-form_for-rails'>Validations with form_for</a> on Learn.co and start learning to code for free.</p>
